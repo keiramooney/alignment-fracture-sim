@@ -14,8 +14,7 @@ This repo contains my summer project to simulate alignment fractures in multi-ag
 - `notebooks/` - early prototyping, exploratory code
 - `logs/` - tracking experimental runs/results 
 
-## 
-Future Plans
+## Future Plans
 - Custom agent behaviors (stubbornness, noise, etc)
 - Different network types (especially scale-free, small-world)
 - Dynamic visualizations and metric tracking
