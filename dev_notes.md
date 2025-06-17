@@ -4,7 +4,7 @@
 ### Simulation setup
 - network type: Erdos-Renyi graph
 - edge probability: used between 0.1-0.5
-- eeed = 15
+- seed = 15
 - 10 agents, aligned value = 0.9, misaligned value 0.1-0.2
 - disconected notes excluded from belief updates (so their beliefs stay the same throughout)
 - belief update rule: uniform avg of neighbors' beliefs (if connected)
